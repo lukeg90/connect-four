@@ -165,6 +165,7 @@
                     }
                 }
             }
+            victoryBlink = [];
             if (
                 slots.eq(i).hasClass(currentPlayer) &&
                 !slots.eq(i).is(":first-child")
@@ -187,8 +188,8 @@
                     }
                 }
             }
+            victoryBlink = [];
         }
-        victoryBlink = [];
     }
 
     function confirmPlayAgain() {
