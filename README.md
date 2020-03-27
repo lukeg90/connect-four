@@ -1,4 +1,4 @@
 # connect-four
 
 
-![connect-four-grid](https://github.com/lukeg90/connect-four/blob/master/screenshot.png)
+![connect-four-gif](https://github.com/lukeg90/connect-four/blob/master/connect-four.gif)
